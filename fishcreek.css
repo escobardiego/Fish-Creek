@@ -61,7 +61,7 @@ dt {
     font-weight: bold;
 }
 section {
-background-color: #FFF;
+background-color: #FFFFFF;
 float: left;
 margin-bottom: 1em;
 margin-right: 1em;
@@ -70,7 +70,7 @@ padding: 0;
 width: 30%;       
 }
  section h3 {
- background-color: #AEc3E3;
+ background-color: #AEC3E3;
  font-size: 110%;       
  margin-bottom: 0;
  margin-top: 0;       
