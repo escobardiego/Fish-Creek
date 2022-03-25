@@ -1,7 +1,7 @@
 *{box-sizing: border-box;}
 body { 
        background-color: #FFFFFF;
-       background-image: url (gradientblue.jpg);
+       background-image: url(gradientblue.jpg);
        color: #003366;
        font-family: Verdana, Arial, sans-serif;
 }
@@ -29,7 +29,7 @@ header a:hover  {color: #AEC3E3;}
 h1 {
 font-size: 3em;
 padding: 0.2em;
-text-shadow: 3px 3px 3px #CCC; )       
+text-shadow: 3px 3px 3px #CCC;       
 h2 { 
        font-size: 1.2em;
      text-shadow: 1px 1px 1px #777;
